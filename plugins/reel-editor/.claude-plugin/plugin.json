@@ -1,0 +1,9 @@
+{
+  "name": "reel-editor",
+  "description": "Claude edits your vertical videos end to end: motion graphics synced to every word, Arabic-ready captions, sound design, platform safe zones — and hands back an editable CapCut project, Premiere layers and a ready-to-post MP4.",
+  "version": "1.0.1",
+  "author": {
+    "name": "Hussein"
+  },
+  "keywords": ["video", "editing", "capcut", "premiere", "reels", "tiktok", "shorts", "arabic", "captions", "motion-graphics"]
+}

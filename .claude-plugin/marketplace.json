@@ -1,0 +1,14 @@
+{
+  "name": "reel-editor",
+  "description": "AI video editing for Reels / TikTok / Shorts — CapCut and Premiere projects built by Claude",
+  "owner": {
+    "name": "Hussein"
+  },
+  "plugins": [
+    {
+      "name": "reel-editor",
+      "source": "./plugins/reel-editor",
+      "description": "Edit a talking-head video end to end and get an editable CapCut project, Premiere layers and a ready-to-post MP4"
+    }
+  ]
+}
